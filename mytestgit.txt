@@ -1,2 +1,3 @@
 My test git file!
 second motify file test!
+my third modify file test!
